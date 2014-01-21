@@ -1,13 +1,14 @@
 <?php
-########################################################################
-# Extension Manager/Repository config file for ext "pimp_my_typo3".
-#
-# Auto generated 08-10-2010 23:32
-#
-# Manual updates:
-# Only the data in the array - everything else is removed by next
-# writing. "version" and "dependencies" must not be touched!
-########################################################################
+
+/***************************************************************
+ * Extension Manager/Repository config file for ext "pimp_my_typo3".
+ *
+ * Auto generated 21-01-2014 09:29
+ *
+ * Manual updates:
+ * Only the data in the array - everything else is removed by next
+ * writing. "version" and "dependencies" must not be touched!
+ ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array(
   'title' => 'PIMP MY TYPO3',
@@ -21,7 +22,6 @@ $EM_CONF[$_EXTKEY] = array(
   'conflicts' => '',
   'priority' => '',
   'module' => '',
-  'state' => 'beta',
   'internal' => '',
   'uploadfolder' => 0,
   'createDirs' => '',
@@ -40,8 +40,9 @@ $EM_CONF[$_EXTKEY] = array(
     'suggests' => array(
     ),
   ),
-  '_md5_values_when_last_written' => 'a:5:{s:9:"ChangeLog";s:4:"4495";s:10:"README.txt";s:4:"86a1";s:26:"class.tx_pimp_my_typo3.php";s:4:"22a9";s:12:"ext_icon.gif";s:4:"e922";s:17:"ext_localconf.php";s:4:"a6f9";}',
+  '_md5_values_when_last_written' => 'a:6:{s:9:"ChangeLog";s:4:"c9a6";s:26:"class.tx_pimp_my_typo3.php";s:4:"3881";s:12:"ext_icon.gif";s:4:"e922";s:17:"ext_localconf.php";s:4:"e33f";s:7:"LICENSE";s:4:"2084";s:9:"README.md";s:4:"5a7b";}',
   'suggests' => array(
   ),
 );
+
 ?>
