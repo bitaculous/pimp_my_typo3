@@ -1,7 +1,7 @@
 [PIMP MY TYPO3](http://bitaculous.github.io/pimp_my_typo3 "Pimp My TYPO3")
 ==========================================================================
 
-**Yo dawg i heard you liked TYPO3...**
+**“Yo dawg i heard you liked TYPO3...”**
 
 Usage
 -----
