@@ -11,7 +11,7 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array(
-  'title' => 'PIMP MY TYPO3',
+  'title' => 'Pimp My TYPO3',
   'description' => 'Yo dawg i heard you liked TYPO3...',
   'category' => 'misc',
   'author' => 'Maik Kempe',
