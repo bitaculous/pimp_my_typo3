@@ -4,10 +4,7 @@
       "name": "pimp_my_typo3",
       "path": "./",
       "file_exclude_patterns": [
-        "*.sublime-workspace",
         ".keep"
-      ],
-      "folder_exclude_patterns": [
       ]
     }
   ]
