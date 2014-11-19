@@ -33,4 +33,4 @@ Pimp My TYPO3 is released under the [MIT License (MIT)], see [LICENSE].
 
 [LICENSE]: https://raw.githubusercontent.com/bitaculous/pimp_my_typo3/master/LICENSE "License"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
-[Pimp My TYPO3]: http://bitaculous.github.io/pimp_my_typo3 "“Yo dawg i heard you liked TYPO3...”"
+[Pimp My TYPO3]: https://bitaculous.github.io/pimp_my_typo3/ "“Yo dawg i heard you liked TYPO3...”"
